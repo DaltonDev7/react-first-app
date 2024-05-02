@@ -75,7 +75,7 @@ export const Home = () => {
 
         <div className='container'>
 
-            <h1 className='mt-5'>Welcome</h1>
+            <h1 className='mt-5'>Welcomeeee</h1>
 
             <div className='w-50'>
                 <div className="form-group mb-2">
